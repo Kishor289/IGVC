@@ -1,0 +1,3 @@
+[console_scripts]
+pub = Turtle_circle.Publisher:main
+

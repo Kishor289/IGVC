@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/Turtle_circle/Turtle_circle.egg-info
+writing ../../build/Turtle_circle/Turtle_circle.egg-info/PKG-INFO
+writing dependency_links to ../../build/Turtle_circle/Turtle_circle.egg-info/dependency_links.txt
+writing entry points to ../../build/Turtle_circle/Turtle_circle.egg-info/entry_points.txt
+writing requirements to ../../build/Turtle_circle/Turtle_circle.egg-info/requires.txt
+writing top-level names to ../../build/Turtle_circle/Turtle_circle.egg-info/top_level.txt
+writing manifest file '../../build/Turtle_circle/Turtle_circle.egg-info/SOURCES.txt'
+reading manifest file '../../build/Turtle_circle/Turtle_circle.egg-info/SOURCES.txt'
+writing manifest file '../../build/Turtle_circle/Turtle_circle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/astro/IGVC-Pushed/build/Turtle_circle/build
+creating /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib
+creating /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle
+copying Turtle_circle/__init__.py -> /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle
+copying Turtle_circle/Publisher.py -> /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle
+running install
+running install_lib
+creating /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle
+copying /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle/__init__.py -> /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle
+copying /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle/Publisher.py -> /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle
+byte-compiling /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle/Publisher.py to Publisher.cpython-310.pyc
+running install_data
+creating /home/astro/IGVC-Pushed/install/Turtle_circle/share/ament_index
+creating /home/astro/IGVC-Pushed/install/Turtle_circle/share/ament_index/resource_index
+creating /home/astro/IGVC-Pushed/install/Turtle_circle/share/ament_index/resource_index/packages
+copying resource/Turtle_circle -> /home/astro/IGVC-Pushed/install/Turtle_circle/share/ament_index/resource_index/packages
+copying package.xml -> /home/astro/IGVC-Pushed/install/Turtle_circle/share/Turtle_circle
+running install_egg_info
+Copying ../../build/Turtle_circle/Turtle_circle.egg-info to /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pub script to /home/astro/IGVC-Pushed/install/Turtle_circle/lib/Turtle_circle
+writing list of installed files to '/home/astro/IGVC-Pushed/build/Turtle_circle/install.log'
