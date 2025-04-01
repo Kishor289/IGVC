@@ -1,0 +1,4 @@
+[console_scripts]
+q1 = assignment_1.q1:main
+q2 = assignment_1.q2:main
+
