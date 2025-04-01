@@ -1,0 +1,28 @@
+[0.803s] Invoking command in '/media/aayush/New Volume/IGVC_assignment/src/assignment_1': PYTHONPATH=/media/aayush/New Volume/IGVC_assignment/build/assignment_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/assignment_1 build --build-base /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build install --record /media/aayush/New Volume/IGVC_assignment/build/assignment_1/install.log --single-version-externally-managed install_data
+[1.058s] running egg_info
+[1.059s] creating ../../build/assignment_1/assignment_1.egg-info
+[1.070s] writing manifest file '../../build/assignment_1/assignment_1.egg-info/SOURCES.txt'
+[1.073s] writing manifest file '../../build/assignment_1/assignment_1.egg-info/SOURCES.txt'
+[1.073s] running build
+[1.074s] running build_py
+[1.074s] creating /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build
+[1.074s] creating /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build/lib
+[1.074s] creating /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build/lib/assignment_1
+[1.074s] copying assignment_1/q1.py -> /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build/lib/assignment_1
+[1.074s] copying assignment_1/__init__.py -> /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build/lib/assignment_1
+[1.075s] running install
+[1.075s] running install_lib
+[1.076s] creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages/assignment_1
+[1.077s] byte-compiling /media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages/assignment_1/q1.py to q1.cpython-310.pyc
+[1.077s] byte-compiling /media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages/assignment_1/__init__.py to __init__.cpython-310.pyc
+[1.077s] running install_data
+[1.077s] creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/ament_index
+[1.077s] creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/ament_index/resource_index
+[1.077s] creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/ament_index/resource_index/packages
+[1.077s] copying resource/assignment_1 -> /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/ament_index/resource_index/packages
+[1.078s] copying package.xml -> /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/assignment_1
+[1.078s] running install_egg_info
+[1.080s] Copying ../../build/assignment_1/assignment_1.egg-info to /media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages/assignment_1-0.0.0-py3.10.egg-info
+[1.081s] running install_scripts
+[1.103s] writing list of installed files to '/media/aayush/New Volume/IGVC_assignment/build/assignment_1/install.log'
+[1.127s] Invoked command in '/media/aayush/New Volume/IGVC_assignment/src/assignment_1' returned '0': PYTHONPATH=/media/aayush/New Volume/IGVC_assignment/build/assignment_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/assignment_1 build --build-base /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build install --record /media/aayush/New Volume/IGVC_assignment/build/assignment_1/install.log --single-version-externally-managed install_data

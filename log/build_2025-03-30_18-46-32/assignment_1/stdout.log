@@ -1,0 +1,26 @@
+running egg_info
+creating ../../build/assignment_1/assignment_1.egg-info
+writing manifest file '../../build/assignment_1/assignment_1.egg-info/SOURCES.txt'
+writing manifest file '../../build/assignment_1/assignment_1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build
+creating /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build/lib
+creating /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build/lib/assignment_1
+copying assignment_1/q1.py -> /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build/lib/assignment_1
+copying assignment_1/__init__.py -> /media/aayush/New Volume/IGVC_assignment/build/assignment_1/build/lib/assignment_1
+running install
+running install_lib
+creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages/assignment_1
+byte-compiling /media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages/assignment_1/q1.py to q1.cpython-310.pyc
+byte-compiling /media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages/assignment_1/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/ament_index
+creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/ament_index/resource_index
+creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/ament_index/resource_index/packages
+copying resource/assignment_1 -> /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/ament_index/resource_index/packages
+copying package.xml -> /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/assignment_1
+running install_egg_info
+Copying ../../build/assignment_1/assignment_1.egg-info to /media/aayush/New Volume/IGVC_assignment/install/assignment_1/lib/python3.10/site-packages/assignment_1-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/media/aayush/New Volume/IGVC_assignment/build/assignment_1/install.log'

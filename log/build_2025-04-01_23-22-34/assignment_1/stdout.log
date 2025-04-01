@@ -1,0 +1,10 @@
+running egg_info
+writing manifest file '../../build/assignment_1/assignment_1.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/assignment_1/launch
+copying launch/q1launch.py -> /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/assignment_1/launch
+copying launch/q2launch.py -> /media/aayush/New Volume/IGVC_assignment/install/assignment_1/share/assignment_1/launch
