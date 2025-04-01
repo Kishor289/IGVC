@@ -1,0 +1,24 @@
+[0.304s] Invoking command in '/home/arnab/ArnabIGVC/IGVC1/src/turtleop': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/arnab/ArnabIGVC/IGVC1/build/turtleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtleop build --build-base /home/arnab/ArnabIGVC/IGVC1/build/turtleop/build install --record /home/arnab/ArnabIGVC/IGVC1/build/turtleop/install.log --single-version-externally-managed install_data
+[0.420s] running egg_info
+[0.420s] writing ../../build/turtleop/turtleop.egg-info/PKG-INFO
+[0.420s] writing dependency_links to ../../build/turtleop/turtleop.egg-info/dependency_links.txt
+[0.420s] writing entry points to ../../build/turtleop/turtleop.egg-info/entry_points.txt
+[0.421s] writing requirements to ../../build/turtleop/turtleop.egg-info/requires.txt
+[0.421s] writing top-level names to ../../build/turtleop/turtleop.egg-info/top_level.txt
+[0.421s] reading manifest file '../../build/turtleop/turtleop.egg-info/SOURCES.txt'
+[0.422s] writing manifest file '../../build/turtleop/turtleop.egg-info/SOURCES.txt'
+[0.422s] running build
+[0.422s] running build_py
+[0.422s] copying turtleop/teleport.py -> /home/arnab/ArnabIGVC/IGVC1/build/turtleop/build/lib/turtleop
+[0.422s] running install
+[0.422s] running install_lib
+[0.423s] copying /home/arnab/ArnabIGVC/IGVC1/build/turtleop/build/lib/turtleop/teleport.py -> /home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages/turtleop
+[0.423s] byte-compiling /home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages/turtleop/teleport.py to teleport.cpython-310.pyc
+[0.423s] running install_data
+[0.423s] running install_egg_info
+[0.424s] removing '/home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages/turtleop-0.0.0-py3.10.egg-info' (and everything under it)
+[0.424s] Copying ../../build/turtleop/turtleop.egg-info to /home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages/turtleop-0.0.0-py3.10.egg-info
+[0.425s] running install_scripts
+[0.437s] Installing teleport script to /home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/turtleop
+[0.437s] writing list of installed files to '/home/arnab/ArnabIGVC/IGVC1/build/turtleop/install.log'
+[0.452s] Invoked command in '/home/arnab/ArnabIGVC/IGVC1/src/turtleop' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/arnab/ArnabIGVC/IGVC1/build/turtleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtleop build --build-base /home/arnab/ArnabIGVC/IGVC1/build/turtleop/build install --record /home/arnab/ArnabIGVC/IGVC1/build/turtleop/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+[console_scripts]
+circle = turtleop.circle:main
+teleport = turtleop.teleport:main
+
