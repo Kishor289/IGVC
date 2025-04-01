@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/turtleop/turtleop.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtleop/turtleop.egg-info/dependency_links.txt
+writing entry points to ../../build/turtleop/turtleop.egg-info/entry_points.txt
+writing requirements to ../../build/turtleop/turtleop.egg-info/requires.txt
+writing top-level names to ../../build/turtleop/turtleop.egg-info/top_level.txt
+reading manifest file '../../build/turtleop/turtleop.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtleop/turtleop.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtleop/teleport.py -> /home/arnab/ArnabIGVC/IGVC1/build/turtleop/build/lib/turtleop
+running install
+running install_lib
+copying /home/arnab/ArnabIGVC/IGVC1/build/turtleop/build/lib/turtleop/teleport.py -> /home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages/turtleop
+byte-compiling /home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages/turtleop/teleport.py to teleport.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages/turtleop-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtleop/turtleop.egg-info to /home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/python3.10/site-packages/turtleop-0.0.0-py3.10.egg-info
+running install_scripts
+Installing teleport script to /home/arnab/ArnabIGVC/IGVC1/install/turtleop/lib/turtleop
+writing list of installed files to '/home/arnab/ArnabIGVC/IGVC1/build/turtleop/install.log'
