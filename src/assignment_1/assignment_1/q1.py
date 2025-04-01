@@ -6,11 +6,13 @@ from turtlesim.srv import TeleportAbsolute
 class TeleportClient(Node):
     def __init__(self):
         super().__init__('teleport_client')
+        # service name as per created turtlesim in launch file
         self.client = self.create_client(TeleportAbsolute, '/turtlesim2/turtle1/teleport_absolute')
         self.request = TeleportAbsolute.Request()
-        self.declare_parameter('x,y,theta', '5.544445,5.544445,0')
+        self.declare_parameter('x,y,theta', '5.544445,5.544445,0') # declaring parameter for the node.
 
     def teleport_turtle(self):
+        # gets input through parameter (single string) and splits them by comma and coverts to float type
         x,y,theta = map(float,self.get_parameter('x,y,theta').get_parameter_value().string_value.split(','))
         self.request.x = x
         self.request.y = y
