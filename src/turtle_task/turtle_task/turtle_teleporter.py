@@ -28,10 +28,14 @@ class TeleportingClientNode(Node):
 def main():
     rclpy.init()
     node = TeleportingClientNode('teleporter_node')
-    x = float(input("Enter x: "))
-    y = float(input("Enter y: "))
-    theta = float(input("Enter theta: "))
-    node.send_request(x, y, theta)
-    rclpy.spin(node)
+    while True:
+        x = float(input("Enter x: "))
+        y = float(input("Enter y: "))
+        theta = float(input("Enter theta: "))
+        node.send_request(x, y, theta)
+        rclpy.spin_once(node)
     rclpy.shutdown()
+
+if __name__ == "__main__":
+    main()
 
