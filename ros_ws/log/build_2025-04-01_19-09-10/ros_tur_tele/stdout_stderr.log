@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/ros_tur_tele/ros_tur_tele.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros_tur_tele/ros_tur_tele.egg-info/dependency_links.txt
+writing entry points to ../../build/ros_tur_tele/ros_tur_tele.egg-info/entry_points.txt
+writing requirements to ../../build/ros_tur_tele/ros_tur_tele.egg-info/requires.txt
+writing top-level names to ../../build/ros_tur_tele/ros_tur_tele.egg-info/top_level.txt
+reading manifest file '../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ros_tur_tele/tur_tele.py -> /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele
+running install
+running install_lib
+copying /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele/tur_tele.py -> /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele
+byte-compiling /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele/tur_tele.py to tur_tele.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ros_tur_tele/ros_tur_tele.egg-info to /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele-0.0.0-py3.10.egg-info
+running install_scripts
+Installing tur_tele script to /home/saket/ros_ws/install/ros_tur_tele/lib/ros_tur_tele
+writing list of installed files to '/home/saket/ros_ws/build/ros_tur_tele/install.log'

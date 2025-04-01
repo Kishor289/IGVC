@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/ros_tur_tele/ros_tur_tele.egg-info/PKG-INFO
+../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt
+../../build/ros_tur_tele/ros_tur_tele.egg-info/dependency_links.txt
+../../build/ros_tur_tele/ros_tur_tele.egg-info/entry_points.txt
+../../build/ros_tur_tele/ros_tur_tele.egg-info/requires.txt
+../../build/ros_tur_tele/ros_tur_tele.egg-info/top_level.txt
+../../build/ros_tur_tele/ros_tur_tele.egg-info/zip-safe
+resource/ros_tur_tele
+ros_tur_tele/__init__.py
+ros_tur_tele/tur_rot.py
+ros_tur_tele/tur_tele.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,4 @@
+[console_scripts]
+tur_rot = ros_tur_tele.tur_rot:main
+tur_tele = ros_tur_tele.tur_tele:main
+

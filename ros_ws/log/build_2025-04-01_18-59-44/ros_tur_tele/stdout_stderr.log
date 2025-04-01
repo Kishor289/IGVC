@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/ros_tur_tele/ros_tur_tele.egg-info
+writing ../../build/ros_tur_tele/ros_tur_tele.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros_tur_tele/ros_tur_tele.egg-info/dependency_links.txt
+writing entry points to ../../build/ros_tur_tele/ros_tur_tele.egg-info/entry_points.txt
+writing requirements to ../../build/ros_tur_tele/ros_tur_tele.egg-info/requires.txt
+writing top-level names to ../../build/ros_tur_tele/ros_tur_tele.egg-info/top_level.txt
+writing manifest file '../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt'
+reading manifest file '../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/saket/ros_ws/build/ros_tur_tele/build
+creating /home/saket/ros_ws/build/ros_tur_tele/build/lib
+creating /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele
+copying ros_tur_tele/tur_tele.py -> /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele
+copying ros_tur_tele/__init__.py -> /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele
+running install
+running install_lib
+creating /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele
+copying /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele/tur_tele.py -> /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele
+copying /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele/__init__.py -> /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele
+byte-compiling /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele/tur_tele.py to tur_tele.cpython-310.pyc
+Sorry: TabError: inconsistent use of tabs and spaces in indentation (tur_tele.py, line 31)
+byte-compiling /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/saket/ros_ws/install/ros_tur_tele/share/ament_index
+creating /home/saket/ros_ws/install/ros_tur_tele/share/ament_index/resource_index
+creating /home/saket/ros_ws/install/ros_tur_tele/share/ament_index/resource_index/packages
+copying resource/ros_tur_tele -> /home/saket/ros_ws/install/ros_tur_tele/share/ament_index/resource_index/packages
+copying package.xml -> /home/saket/ros_ws/install/ros_tur_tele/share/ros_tur_tele
+running install_egg_info
+Copying ../../build/ros_tur_tele/ros_tur_tele.egg-info to /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele-0.0.0-py3.10.egg-info
+running install_scripts
+Installing tur_tele script to /home/saket/ros_ws/install/ros_tur_tele/lib/ros_tur_tele
+writing list of installed files to '/home/saket/ros_ws/build/ros_tur_tele/install.log'

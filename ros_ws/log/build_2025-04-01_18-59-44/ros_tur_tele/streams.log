@@ -1,0 +1,38 @@
+[0.786s] Invoking command in '/home/saket/ros_ws/src/ros_tur_tele': PYTHONPATH=/home/saket/ros_ws/build/ros_tur_tele/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_tur_tele build --build-base /home/saket/ros_ws/build/ros_tur_tele/build install --record /home/saket/ros_ws/build/ros_tur_tele/install.log --single-version-externally-managed install_data
+[1.061s] running egg_info
+[1.062s] creating ../../build/ros_tur_tele/ros_tur_tele.egg-info
+[1.062s] writing ../../build/ros_tur_tele/ros_tur_tele.egg-info/PKG-INFO
+[1.062s] writing dependency_links to ../../build/ros_tur_tele/ros_tur_tele.egg-info/dependency_links.txt
+[1.062s] writing entry points to ../../build/ros_tur_tele/ros_tur_tele.egg-info/entry_points.txt
+[1.063s] writing requirements to ../../build/ros_tur_tele/ros_tur_tele.egg-info/requires.txt
+[1.063s] writing top-level names to ../../build/ros_tur_tele/ros_tur_tele.egg-info/top_level.txt
+[1.063s] writing manifest file '../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt'
+[1.065s] reading manifest file '../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt'
+[1.065s] writing manifest file '../../build/ros_tur_tele/ros_tur_tele.egg-info/SOURCES.txt'
+[1.065s] running build
+[1.066s] running build_py
+[1.066s] creating /home/saket/ros_ws/build/ros_tur_tele/build
+[1.066s] creating /home/saket/ros_ws/build/ros_tur_tele/build/lib
+[1.066s] creating /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele
+[1.066s] copying ros_tur_tele/tur_tele.py -> /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele
+[1.066s] copying ros_tur_tele/__init__.py -> /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele
+[1.066s] running install
+[1.066s] running install_lib
+[1.067s] creating /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele
+[1.067s] copying /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele/tur_tele.py -> /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele
+[1.067s] copying /home/saket/ros_ws/build/ros_tur_tele/build/lib/ros_tur_tele/__init__.py -> /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele
+[1.068s] byte-compiling /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele/tur_tele.py to tur_tele.cpython-310.pyc
+[1.068s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (tur_tele.py, line 31)
+[1.068s] byte-compiling /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele/__init__.py to __init__.cpython-310.pyc
+[1.069s] running install_data
+[1.069s] creating /home/saket/ros_ws/install/ros_tur_tele/share/ament_index
+[1.069s] creating /home/saket/ros_ws/install/ros_tur_tele/share/ament_index/resource_index
+[1.069s] creating /home/saket/ros_ws/install/ros_tur_tele/share/ament_index/resource_index/packages
+[1.069s] copying resource/ros_tur_tele -> /home/saket/ros_ws/install/ros_tur_tele/share/ament_index/resource_index/packages
+[1.069s] copying package.xml -> /home/saket/ros_ws/install/ros_tur_tele/share/ros_tur_tele
+[1.069s] running install_egg_info
+[1.071s] Copying ../../build/ros_tur_tele/ros_tur_tele.egg-info to /home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages/ros_tur_tele-0.0.0-py3.10.egg-info
+[1.072s] running install_scripts
+[1.102s] Installing tur_tele script to /home/saket/ros_ws/install/ros_tur_tele/lib/ros_tur_tele
+[1.102s] writing list of installed files to '/home/saket/ros_ws/build/ros_tur_tele/install.log'
+[1.136s] Invoked command in '/home/saket/ros_ws/src/ros_tur_tele' returned '0': PYTHONPATH=/home/saket/ros_ws/build/ros_tur_tele/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saket/ros_ws/install/ros_tur_tele/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_tur_tele build --build-base /home/saket/ros_ws/build/ros_tur_tele/build install --record /home/saket/ros_ws/build/ros_tur_tele/install.log --single-version-externally-managed install_data
