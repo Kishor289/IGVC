@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/PKG-INFO
+writing dependency_links to ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/dependency_links.txt
+writing entry points to ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/entry_points.txt
+writing requirements to ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/requires.txt
+writing top-level names to ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/top_level.txt
+reading manifest file '../../build/Turtle_Teleport/Turtle_Teleport.egg-info/SOURCES.txt'
+writing manifest file '../../build/Turtle_Teleport/Turtle_Teleport.egg-info/SOURCES.txt'
+running build
+running build_py
+copying Turtle_Teleport/client.py -> /home/astro/IGVC-Pushed/build/Turtle_Teleport/build/lib/Turtle_Teleport
+running install
+running install_lib
+copying /home/astro/IGVC-Pushed/build/Turtle_Teleport/build/lib/Turtle_Teleport/client.py -> /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport
+byte-compiling /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport/client.py to client.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/Turtle_Teleport/Turtle_Teleport.egg-info to /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport-0.0.0-py3.10.egg-info
+running install_scripts
+Installing client script to /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/Turtle_Teleport
+writing list of installed files to '/home/astro/IGVC-Pushed/build/Turtle_Teleport/install.log'

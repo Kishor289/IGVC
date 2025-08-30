@@ -1,0 +1,37 @@
+[1.478s] Invoking command in '/home/astro/IGVC-Pushed/src/Turtle_Teleport': PYTHONPATH=/home/astro/IGVC-Pushed/build/Turtle_Teleport/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/Turtle_Teleport build --build-base /home/astro/IGVC-Pushed/build/Turtle_Teleport/build install --record /home/astro/IGVC-Pushed/build/Turtle_Teleport/install.log --single-version-externally-managed install_data
+[1.973s] running egg_info
+[1.975s] creating ../../build/Turtle_Teleport/Turtle_Teleport.egg-info
+[1.975s] writing ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/PKG-INFO
+[1.976s] writing dependency_links to ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/dependency_links.txt
+[1.977s] writing entry points to ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/entry_points.txt
+[1.977s] writing requirements to ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/requires.txt
+[1.977s] writing top-level names to ../../build/Turtle_Teleport/Turtle_Teleport.egg-info/top_level.txt
+[1.978s] writing manifest file '../../build/Turtle_Teleport/Turtle_Teleport.egg-info/SOURCES.txt'
+[1.981s] reading manifest file '../../build/Turtle_Teleport/Turtle_Teleport.egg-info/SOURCES.txt'
+[1.982s] writing manifest file '../../build/Turtle_Teleport/Turtle_Teleport.egg-info/SOURCES.txt'
+[1.983s] running build
+[1.983s] running build_py
+[1.983s] creating /home/astro/IGVC-Pushed/build/Turtle_Teleport/build
+[1.984s] creating /home/astro/IGVC-Pushed/build/Turtle_Teleport/build/lib
+[1.985s] creating /home/astro/IGVC-Pushed/build/Turtle_Teleport/build/lib/Turtle_Teleport
+[1.986s] copying Turtle_Teleport/client.py -> /home/astro/IGVC-Pushed/build/Turtle_Teleport/build/lib/Turtle_Teleport
+[1.986s] copying Turtle_Teleport/__init__.py -> /home/astro/IGVC-Pushed/build/Turtle_Teleport/build/lib/Turtle_Teleport
+[1.987s] running install
+[1.988s] running install_lib
+[1.990s] creating /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport
+[1.990s] copying /home/astro/IGVC-Pushed/build/Turtle_Teleport/build/lib/Turtle_Teleport/client.py -> /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport
+[1.991s] copying /home/astro/IGVC-Pushed/build/Turtle_Teleport/build/lib/Turtle_Teleport/__init__.py -> /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport
+[1.992s] byte-compiling /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport/client.py to client.cpython-310.pyc
+[1.995s] byte-compiling /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport/__init__.py to __init__.cpython-310.pyc
+[1.995s] running install_data
+[1.995s] creating /home/astro/IGVC-Pushed/install/Turtle_Teleport/share/ament_index
+[1.996s] creating /home/astro/IGVC-Pushed/install/Turtle_Teleport/share/ament_index/resource_index
+[1.997s] creating /home/astro/IGVC-Pushed/install/Turtle_Teleport/share/ament_index/resource_index/packages
+[1.998s] copying resource/Turtle_Teleport -> /home/astro/IGVC-Pushed/install/Turtle_Teleport/share/ament_index/resource_index/packages
+[2.000s] copying package.xml -> /home/astro/IGVC-Pushed/install/Turtle_Teleport/share/Turtle_Teleport
+[2.000s] running install_egg_info
+[2.002s] Copying ../../build/Turtle_Teleport/Turtle_Teleport.egg-info to /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages/Turtle_Teleport-0.0.0-py3.10.egg-info
+[2.004s] running install_scripts
+[2.040s] Installing client script to /home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/Turtle_Teleport
+[2.042s] writing list of installed files to '/home/astro/IGVC-Pushed/build/Turtle_Teleport/install.log'
+[2.088s] Invoked command in '/home/astro/IGVC-Pushed/src/Turtle_Teleport' returned '0': PYTHONPATH=/home/astro/IGVC-Pushed/build/Turtle_Teleport/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/astro/IGVC-Pushed/install/Turtle_Teleport/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/Turtle_Teleport build --build-base /home/astro/IGVC-Pushed/build/Turtle_Teleport/build install --record /home/astro/IGVC-Pushed/build/Turtle_Teleport/install.log --single-version-externally-managed install_data

@@ -1,0 +1,37 @@
+[1.464s] Invoking command in '/home/astro/IGVC-Pushed/src/Turtle_circle': PYTHONPATH=/home/astro/IGVC-Pushed/build/Turtle_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/Turtle_circle build --build-base /home/astro/IGVC-Pushed/build/Turtle_circle/build install --record /home/astro/IGVC-Pushed/build/Turtle_circle/install.log --single-version-externally-managed install_data
+[1.970s] running egg_info
+[1.971s] creating ../../build/Turtle_circle/Turtle_circle.egg-info
+[1.973s] writing ../../build/Turtle_circle/Turtle_circle.egg-info/PKG-INFO
+[1.974s] writing dependency_links to ../../build/Turtle_circle/Turtle_circle.egg-info/dependency_links.txt
+[1.975s] writing entry points to ../../build/Turtle_circle/Turtle_circle.egg-info/entry_points.txt
+[1.976s] writing requirements to ../../build/Turtle_circle/Turtle_circle.egg-info/requires.txt
+[1.976s] writing top-level names to ../../build/Turtle_circle/Turtle_circle.egg-info/top_level.txt
+[1.977s] writing manifest file '../../build/Turtle_circle/Turtle_circle.egg-info/SOURCES.txt'
+[1.978s] reading manifest file '../../build/Turtle_circle/Turtle_circle.egg-info/SOURCES.txt'
+[1.980s] writing manifest file '../../build/Turtle_circle/Turtle_circle.egg-info/SOURCES.txt'
+[1.980s] running build
+[1.980s] running build_py
+[1.980s] creating /home/astro/IGVC-Pushed/build/Turtle_circle/build
+[1.980s] creating /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib
+[1.981s] creating /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle
+[1.982s] copying Turtle_circle/__init__.py -> /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle
+[1.982s] copying Turtle_circle/Publisher.py -> /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle
+[1.983s] running install
+[1.983s] running install_lib
+[1.985s] creating /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle
+[1.985s] copying /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle/__init__.py -> /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle
+[1.986s] copying /home/astro/IGVC-Pushed/build/Turtle_circle/build/lib/Turtle_circle/Publisher.py -> /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle
+[1.987s] byte-compiling /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle/__init__.py to __init__.cpython-310.pyc
+[1.988s] byte-compiling /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle/Publisher.py to Publisher.cpython-310.pyc
+[1.989s] running install_data
+[1.989s] creating /home/astro/IGVC-Pushed/install/Turtle_circle/share/ament_index
+[1.989s] creating /home/astro/IGVC-Pushed/install/Turtle_circle/share/ament_index/resource_index
+[1.991s] creating /home/astro/IGVC-Pushed/install/Turtle_circle/share/ament_index/resource_index/packages
+[1.991s] copying resource/Turtle_circle -> /home/astro/IGVC-Pushed/install/Turtle_circle/share/ament_index/resource_index/packages
+[1.992s] copying package.xml -> /home/astro/IGVC-Pushed/install/Turtle_circle/share/Turtle_circle
+[1.992s] running install_egg_info
+[1.996s] Copying ../../build/Turtle_circle/Turtle_circle.egg-info to /home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages/Turtle_circle-0.0.0-py3.10.egg-info
+[1.998s] running install_scripts
+[2.040s] Installing pub script to /home/astro/IGVC-Pushed/install/Turtle_circle/lib/Turtle_circle
+[2.041s] writing list of installed files to '/home/astro/IGVC-Pushed/build/Turtle_circle/install.log'
+[2.098s] Invoked command in '/home/astro/IGVC-Pushed/src/Turtle_circle' returned '0': PYTHONPATH=/home/astro/IGVC-Pushed/build/Turtle_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/astro/IGVC-Pushed/install/Turtle_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/Turtle_circle build --build-base /home/astro/IGVC-Pushed/build/Turtle_circle/build install --record /home/astro/IGVC-Pushed/build/Turtle_circle/install.log --single-version-externally-managed install_data
